@@ -16,7 +16,8 @@
 
 ### Ссылка на тг-бота
 https://t.me/WhileTrueWin_bot
-
+### Ссылка на тг-бота
+https://drive.google.com/drive/folders/1RFiNqTdbEnnZ10I9w_mzHcGhb2smbzNa?usp=sharing
 В данном репозитории хранятся следующие файлы:
 - best_of_the_best.pt. Здесь хранятя веса для модели yolov8n
 - Real_Time_Pose_Detection_&_Classification_with_Mediapie_and_Python_ipynb_ (1). В данном ноутбуке показано,
