@@ -16,7 +16,7 @@
 
 ### Ссылка на тг-бота
 https://t.me/WhileTrueWin_bot
-### Ссылка на тг-бота
+### Ссылка на презентацию
 https://drive.google.com/drive/folders/1RFiNqTdbEnnZ10I9w_mzHcGhb2smbzNa?usp=sharing
 
 В данном репозитории хранятся следующие файлы:
